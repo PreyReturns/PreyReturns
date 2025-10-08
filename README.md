@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PreyReturns
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
-- 📫 How to reach me dnjlmltc@gmail.com
+- 🌱 I’m currently learning Angular & C#
+- 📫 How to reach me 20210230@htlwrn.ac.at
 
 <!---
 PreyReturns/PreyReturns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
